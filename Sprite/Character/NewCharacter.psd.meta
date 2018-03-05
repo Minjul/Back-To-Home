@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 99bd2e66679dfba4da3ae03c7d36185c
+timeCreated: 1519923022
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FoxEar
+    21300002: FoxUpperArm
+    21300004: RabbitEar
+    21300006: RabbitUpperArm
+    21300008: BearEar
+    21300010: FoxHead
+    21300012: FoxLowerArm
+    21300014: RabbitHead
+    21300016: BearHead
+    21300018: BearUpperArm
+    21300020: RabbitLowerArm
+    21300022: BearLowerArm
+    21300024: FoxHand
+    21300026: RabbitHand
+    21300028: BearHand
+    21300030: FoxBody
+    21300032: FoxTail
+    21300034: RabbitBody
+    21300036: BearBody
+    21300038: NewCharacter_19
+    21300040: RabbitUpperLeg
+    21300042: BearUpperLeg
+    21300044: RabbitLowerLeg
+    21300046: BearLowerLeg
+    21300048: FoxUpperLeg
+    21300050: FoxLowerLeg
+    21300052: RabbitTail
+    21300054: RabbitFeet
+    21300056: BearTail
+    21300058: BearFeet
+    21300060: FoxFeet
+    21300062: BearScarf
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoxEar
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 809
+        width: 153
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5087805, y: 0.1356858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxUpperArm
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 831
+        width: 55
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4853804, y: 0.76616144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitEar
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 785
+        width: 92
+        height: 255
+      alignment: 9
+      pivot: {x: 0.16414808, y: 0.1997087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitUpperArm
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 836
+        width: 64
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49407768, y: 0.757487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearEar
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 832
+        width: 104
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5775041, y: 0.3062392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxHead
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 570
+        width: 295
+        height: 209
+      alignment: 9
+      pivot: {x: 0.43169117, y: 0.075765654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxLowerArm
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 653
+        width: 34
+        height: 93
+      alignment: 9
+      pivot: {x: 0.50791305, y: 0.8936525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitHead
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 520
+        width: 272
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4950611, y: 0.08543229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearHead
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 536
+        width: 284
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearUpperArm
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 868
+        width: 49
+        height: 72
+      alignment: 9
+      pivot: {x: 0.493747, y: 0.71903396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitLowerArm
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 652
+        width: 32
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4939003, y: 0.89851683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearLowerArm
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 690
+        width: 25
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48989257, y: 0.79745543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxHand
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 573
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5103, y: 0.76087725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitHand
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 557
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47079602, y: 0.7858315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearHand
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 577
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5000034, y: 0.6865845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxBody
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 247
+        width: 158
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxTail
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 183
+        width: 377
+        height: 321
+      alignment: 9
+      pivot: {x: 0.9062299, y: 0.2823761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitBody
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 260
+        width: 177
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearBody
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 228
+        width: 291
+        height: 293
+      alignment: 9
+      pivot: {x: 0.6061802, y: 0.4541499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NewCharacter_19
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 448
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 296
+        width: 133
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7256931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 304
+        width: 89
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.7099082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 183
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73568565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 203
+        width: 47
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52858263, y: 0.7459766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 132
+        height: 145
+      alignment: 9
+      pivot: {x: 0.51017743, y: 0.8057412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 70
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.570706, y: 0.69191545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitTail
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 92
+        width: 87
+        height: 84
+      alignment: 9
+      pivot: {x: 0.8088302, y: 0.5159934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RabbitFeet
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 102
+        width: 44
+        height: 19
+      alignment: 9
+      pivot: {x: 0.2862771, y: 0.4999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearTail
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 111
+        width: 56
+        height: 47
+      alignment: 9
+      pivot: {x: 0.8358525, y: 0.38566655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearFeet
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 108
+        width: 49
+        height: 28
+      alignment: 9
+      pivot: {x: 0.25325355, y: 0.5959565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FoxFeet
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 70
+        width: 67
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2593894, y: 0.55840933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BearScarf
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 957
+        width: 293
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

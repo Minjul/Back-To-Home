@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: aacb96075439644468fdae426a1d1bcf
+timeCreated: 1513059406
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Feather1_Lynne
+    21300002: Feather2_Lynne
+    21300004: Head_Lynne
+    21300006: Leg_Upper_Lynne
+    21300008: Tail_Lynne
+    21300010: Leg_Lower_Lynne
+    21300012: Body_Upper_Lynne
+    21300014: Ears_L_Lynne
+    21300016: Arm_Upper_Lynne
+    21300018: Arm_Lower_Lynne
+    21300020: Body_Lower_Lynne
+    21300022: Ears_R_Lynne
+    21300024: Eyes_Lynne
+    21300026: Eyebrow_Lynne
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Feather1_Lynne
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 851
+        width: 388
+        height: 209
+      alignment: 9
+      pivot: {x: 0.52076125, y: 0.81476355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Feather2_Lynne
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 741
+        width: 341
+        height: 315
+      alignment: 9
+      pivot: {x: 0.47637707, y: 0.80260956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_Lynne
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 730
+        width: 436
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5184757, y: 0.07625332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg_Upper_Lynne
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 807
+        width: 135
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46022135, y: 0.7535953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tail_Lynne
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 412
+        height: 509
+      alignment: 9
+      pivot: {x: 0.93340033, y: 0.20985857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg_Lower_Lynne
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 670
+        width: 60
+        height: 83
+      alignment: 9
+      pivot: {x: 0.455249, y: 0.80733335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body_Upper_Lynne
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 343
+        width: 249
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ears_L_Lynne
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 381
+        width: 219
+        height: 293
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.21132569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_Upper_Lynne
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 283
+        width: 71
+        height: 243
+      alignment: 9
+      pivot: {x: 0.46218228, y: 0.9254214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_Lower_Lynne
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 74
+        width: 44
+        height: 181
+      alignment: 9
+      pivot: {x: 0.53051203, y: 0.89312625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body_Lower_Lynne
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 94
+        width: 227
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5059145, y: 0.92887443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ears_R_Lynne
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 384
+        width: 239
+        height: 281
+      alignment: 9
+      pivot: {x: 0.50561726, y: 0.15599793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyes_Lynne
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 131
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyebrow_Lynne
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 170
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
